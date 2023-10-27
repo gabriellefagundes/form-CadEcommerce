@@ -8,16 +8,64 @@ Nesse projeto, criamos um Ecommerce na matéria de:
 Projeto criado para termos um Ecommerce e utilizaremos no 2º Ano do EM. 
 Nessa atividade, usamos 3 tipos de sites de Ecommerce diferentes, são eles:
 ### Shein
-* Nele há os seguintes campos: 
-Número de celular/E-mail, Localização, Uso de captcha, Código de verificação, Primeiro nome, Sobrenome, CEP/Código postal, Linha de endereço, Número, Estado/Província, Cidade, Bairro, Número de CPF, E-mail de contato.
+Nele há os seguintes campos: 
+* Número de celular/E-mail.
+* Localização.
+* Uso de captcha.
+* Código de verificação.
+* Primeiro nome.
+* Sobrenome.
+* CEP/Código postal.
+* Linha de endereço.
+* Número.
+* Estado/Província.
+* Cidade.
+* Bairro.
+* Número de CPF.
+* E-mail de contato.
 
 ### Casas Bahia
-* Nele há os seguintes campos:
-CPF/CNPJ, Nome completo, Celular com DDD, Data de nascimento com dia/mês/ano, Gênero, E-mail, Confirme o e-mail, Senha, Confirme a senha, CEP, Endereço, Bairro, Cidade, Estado, Número, Complemento, Ponto de referência, Tipo de endereço, Destinatário.
+Nele há os seguintes campos:
+* CPF/CNPJ.
+* Nome completo. 
+* Celular com DDD. 
+* Data de nascimento com dia/mês/ano.
+* Gênero.
+* E-mail.
+* Confirme o e-mail.
+* Senha.
+* Confirme a senha.
+* CEP.
+* Endereço.
+* Bairro.
+* Cidade.
+* Estado.
+* Número.
+* Complemento.
+* Ponto de referência.
+* Tipo de endereço.
+* Destinatário.
 
 ### Magazine Luiza.
-* Nele há os seguintes campos:
-E-mail, Tipo de conta, CPF, Nome completo, Data de nascimento, Senha, CEP, Endereço, Número, Complemento, Bairro, Cidade, Estado, Ponto de referência, Telefone celular.
+Nele há os seguintes campos:
+* E-mail.
+* Tipo de conta.
+* CPF.
+* Nome completo.
+* Data de nascimento.
+* Senha.
+* CEP.
+* Endereço.
+* Número.
+* Complemento.
+* Bairro.
+* Cidade.
+* Estado.
+* Ponto de referência.
+* Telefone celular.
+
+## O que terá no meu Ecommerce?
+Haverá no meu Ecommerce os seguintes campos:
 
 ## 🔨Técnicas e Tecnologias utilizadas
 * Visual Studio Code 
