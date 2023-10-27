@@ -66,6 +66,22 @@ Nele há os seguintes campos:
 
 ## O que terá no meu Ecommerce?
 Haverá no meu Ecommerce os seguintes campos:
+* Nome completo.
+* CPF.
+* Número de celular/E-mail.
+* Senha.
+* Confirmação de senha.
+Localização.
+Uso de captcha.
+Código de verificação.
+CEP/Código postal.
+Endereço.
+Número.
+Estado.
+Cidade.
+Bairro.
+Complemento.
+Ponto de referência.
 
 ## 🔨Técnicas e Tecnologias utilizadas
 * Visual Studio Code 
