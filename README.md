@@ -9,30 +9,27 @@ Projeto criado para termos um Ecommerce e utilizaremos no 2º Ano do EM.
 Nessa atividade, usamos 3 tipos de sites de Ecommerce diferentes, são eles:
 ### Shein
 * Nele há os seguintes campos: 
-Número de celular/E-mail.
-Localização.
+Número de celular/E-mail, Localização, Uso de captcha, Código de verificação, Primeiro nome, Sobrenome, CEP/Código postal, Linha de endereço, Número, Estado/Província, Cidade, Bairro, Número de CPF, E-mail de contato.
 
-Uso de captcha.
+### Casas Bahia
+* Nele há os seguintes campos:
+CPF/CNPJ, Nome completo, Celular com DDD, Data de nascimento com dia/mês/ano, Gênero, E-mail, Confirme o e-mail, Senha, Confirme a senha, CEP, Endereço, Bairro, Cidade, Estado, Número, Complemento, Ponto de referência, Tipo de endereço, Destinatário.
 
-Código de verificação.
+### Magazine Luiza.
+* Nele há os seguintes campos:
+E-mail, Tipo de conta, CPF, Nome completo, Data de nascimento, Senha, CEP, Endereço, Número, Complemento, Bairro, Cidade, Estado, Ponto de referência, Telefone celular.
 
-Primeiro nome.
+## 🔨Técnicas e Tecnologias utilizadas
+* Visual Studio Code 
+* Git Bash
+* Git Hub
+* HTML5
+* CSS3
+* Live Server (A extensão Live Server para VSCode permite criar um servidor local através do VSCode. Com ele cortamos a necessidade de sempre que fizermos uma alteração no código atualizar o navegador.)
 
-Sobrenome.
+## 🚧 Fontes utilizadas
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)- Como Escrever um README Incrível no seu GitHub.
 
-CEP/Código postal.
-
-Linha de endereço.
-
-Número.
-
-Estado/Província.
-
-Cidade.
-
-Bairro.
-
-Número de CPF.
-
-E-mail de contato.
-falar sobre bootstrap
+## ✍🏻Autores
+| [<img loading="eu.jpeg" src="eu.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
+| :---: 
