@@ -9,10 +9,40 @@
     <script src='main.js'></script>
 </head>
 <body>
+
+  <h3>DADOS PESSOAIS</h3>
+
     <form class="row g-3">
+
         <div class="col-md-6">
-            <label for="nome" class="form-label">Nome</label>
+            <label for="nome" class="form-label">Nome Completo</label>
             <input type="text" class="form-control" id="nome">
+          </div>
+
+          <div class="col-md-6">
+            <label for="nome" class="form-label">Data de Nascimento</label>
+            <input type="date" class="form-control" id="data">
+          </div>
+
+          <div class="col-md-6">
+            <label for="nome" class="form-label">Gênero</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+            <label class="form-check-label" for="flexCheckDefault">
+              Feminino
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
+            <label class="form-check-label" for="flexCheckChecked">
+              Masculino
+            </label>
+          </div>
+
+          <div class="col-md-6">
+            <label for="nome" class="form-label">CPF/CNPJ</label>
+            <input type="text" class="form-control" id="cpf">
           </div>
 
         <div class="col-md-6">
@@ -21,13 +51,32 @@
         </div>
 
         <div class="col-md-6">
+          <label for="email" class="form-label">Confirmação de Email</label>
+          <input type="email" class="form-control" id="email">
+        </div>
+
+
+        <div class="col-md-6">
           <label for="senha" class="form-label">Senha</label>
           <input type="password" class="form-control" id="senha">
+        </div>
+
+        <div class="col-md-6">
+          <label for="senha" class="form-label">Confirmação de Senha</label>
+          <input type="password" class="form-control" id="senha">
+        </div>
+
+
+        <h3>DADOS DE ENDEREÇO</h3>
+
+        <div class="col-md-2">
+          <label for="cep" class="form-label">CEP</label>
+          <input type="text" class="form-control" id="cep">
         </div>
         
         <div class="col-12">
           <label for="endereco" class="form-label">Endereço</label>
-          <input type="text" class="form-control" id="inputAddress" placeholder="endereco">
+          <input type="text" class="form-control" id="inputAddress" placeholder="endereço">
         </div>
         
         <div class="col-12">
@@ -42,16 +91,10 @@
         
         <div class="col-md-4">
           <label for="estado" class="form-label">Estado</label>
-          <select id="inputState" class="form-select">
-            <option selected>Escolha...</option>
-            <option>...</option>
-          </select>
+          <input id="inputState" class="form-control" type="text">
         </div>
         
-        <div class="col-md-2">
-          <label for="cep" class="form-label">CEP</label>
-          <input type="text" class="form-control" id="cep">
-        </div>
+       
         
         <div class="col-12">
           <div class="form-check">

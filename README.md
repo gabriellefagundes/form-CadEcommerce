@@ -75,9 +75,6 @@ Haverá no meu Ecommerce os seguintes campos:
 * Confirmação de E-mail.
 * Senha.
 * Confirmação de senha.
-* Localização.
-* Uso de captcha.
-* Código de verificação.
 * CEP/Código postal.
 * Endereço.
 * Número.
