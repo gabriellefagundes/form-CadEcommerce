@@ -64,7 +64,7 @@ Nele há os seguintes campos:
 * Ponto de referência.
 * Telefone celular.
 
-## O que terá no meu Ecommerce?
+## O que tem neste cadastro de Ecommerce?
 Haverá no meu Ecommerce os seguintes campos:
 * Nome completo.
 * Data de nascimento. 
