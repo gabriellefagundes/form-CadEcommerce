@@ -1,5 +1,5 @@
 # Form-CadEcommerce
-
+![](formulario.png)
 ## 🚀 Começando
 Nesse projeto, criamos um Ecommerce na matéria de:
 * Fundamentos de Desenvolvimento Web.
@@ -75,7 +75,7 @@ Haverá no meu Ecommerce os seguintes campos:
 * Confirmação de E-mail.
 * Senha.
 * Confirmação de senha.
-* CEP/Código postal.
+* CEP.
 * Endereço.
 * Número.
 * Bairro
