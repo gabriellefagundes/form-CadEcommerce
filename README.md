@@ -1,5 +1,5 @@
 # Formulário de Cadastro Ecommerce
-![](formulario.png)
+![](formulario_print.png)
 ## 🚀 Começando
 Nesse projeto, criamos um Ecommerce na matéria de:
 * Fundamentos de Desenvolvimento Web.
