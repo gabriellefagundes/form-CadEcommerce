@@ -91,6 +91,7 @@ Haverá no meu Ecommerce os seguintes campos:
 * HTML5
 * CSS3
 * Live Server (A extensão Live Server para VSCode permite criar um servidor local através do VSCode. Com ele cortamos a necessidade de sempre que fizermos uma alteração no código atualizar o navegador.)
+* Bootstrap 5
 
 ## 🚧 Fontes utilizadas
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)- Como Escrever um README Incrível no seu GitHub.
