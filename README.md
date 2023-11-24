@@ -5,7 +5,7 @@ Nesse projeto, criamos um Ecommerce na matéria de:
 * Fundamentos de Desenvolvimento Web.
 
 ## 📋 Sobre o projeto
-Projeto criado para termos um Ecommerce e utilizaremos no 2º Ano do EM. 
+Projeto criado para termos um Ecommerce e utilizaremos no 2º Ano do EM em prol de construirmos um site, utilizando o form-Login.
 Nessa atividade, usamos 3 tipos de sites de Ecommerce diferentes, são eles:
 ### Shein
 Nele há os seguintes campos: 
