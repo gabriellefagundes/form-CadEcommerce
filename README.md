@@ -1,12 +1,12 @@
 # Formulário de Cadastro Ecommerce
 ![](formulario_print.png)
 ## 🚀 Começando
-Nesse projeto, criamos um Ecommerce na matéria de:
+Nesse projeto, foi criado um Ecommerce na matéria de:
 * Fundamentos de Desenvolvimento Web.
 
 ## 📋 Sobre o projeto
-Projeto criado para termos um Ecommerce e utilizaremos no 2º Ano do EM em prol de construirmos um site, utilizando o form-Login.
-Nessa atividade, usamos 3 tipos de sites de Ecommerce diferentes, são eles:
+Projeto criado para obter um Ecommerce e utilizar no 2º Ano do Ensino Médio em prol de construir um site, utilizando o form-Login.
+Nessa atividade, foi utilizado 3 tipos de sites de Ecommerce diferentes, são eles:
 ### Shein
 Nele há os seguintes campos: 
 * Número de celular/E-mail.
@@ -65,7 +65,7 @@ Nele há os seguintes campos:
 * Telefone celular.
 
 ## O que tem neste cadastro de Ecommerce?
-Haverá no meu Ecommerce os seguintes campos:
+Haverá nesse Ecommerce os seguintes campos:
 * Nome completo.
 * Data de nascimento. 
 * Gênero.
@@ -90,7 +90,7 @@ Haverá no meu Ecommerce os seguintes campos:
 * Git Hub
 * HTML5
 * CSS3
-* Live Server (A extensão Live Server para VSCode permite criar um servidor local através do VSCode. Com ele cortamos a necessidade de sempre que fizermos uma alteração no código atualizar o navegador.)
+* Live Server (A extensão Live Server permite criar um servidor local através do VSCode. Com ele é cortado a necessidade de sempre que fizer uma alteração no código atualizar o navegador.)
 * Bootstrap 5
 
 ## 🚧 Fontes utilizadas
